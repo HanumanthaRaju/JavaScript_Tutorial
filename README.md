@@ -5,7 +5,7 @@ Welcome to the JavaScriptTutorial.net website! This JavaScript Tutorial helps yo
 
 ![outcome](./01.jpg)
 
-# How to use the Repository
+# How to use this Repository
 1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to fork a repo.
 2. Copies of repositories on your machine are called clones. If you need help cloning to your local environment you can learn how from the GitHub documentation on cloning a repository.
 3. Go to an respective directory and access the data

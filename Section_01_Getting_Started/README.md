@@ -49,6 +49,51 @@ return a+b;
 
 }
 
+### call add() function using following call:
+let result=add(x,y);
+
+### To print the result
+console.log(result); //Print 30 in console window
+
+### Provides conditional statements if..else, switch statements
+let a=20, b=30;
+
+function divide(a,b) {
+
+  if(b==0) {
+    
+      throw 'Division by Zero';
+    
+  }
+  
+  return a/b;
+  
+ }
+ 
+ ### Declare, inititalize, length , iterate over array
+ 
+ let lists=[];
+ 
+ let lists=[1,2,3]
+ 
+ console.log(lists.length); //3
+ 
+ for(let i=0; i< lists.length; i++) {
+ 
+  console.log(list[i]);
+  
+ }
+ 
+ for(let list of lists) {
+ 
+  console.log(list);
+  
+ }
+ 
+ 
+  
+      
+     
 
 
 

@@ -90,6 +90,31 @@ function divide(a,b) {
   
  }
  
+ # JavaScript Code Editors
+ 
+ The following are some popular JavaScript code editors:
+1. Visual Studio Code
+2. Atom
+3. Notepad++
+4. Vim
+5. GNU Emacs
+
+# Visual Studio Code
+Visual Studio Code is a free and open-source code editor developed by Microsoft. Visual Studio Code is often called VS Code.
+
+Download Visual code: https://code.visualstudio.com/download
+
+### Installing on Windows:
+To install the VS Code on Windows, you follow these steps:
+First, execute the installer from the downloaded file. Then, open the Visual Studio code. Note that the installer will add the Visual Studio Code to your %PATH%. It will allow you to type the command code . to launch the VS Code on that folder.
+
+Installing the Live Server extension
+The live server extension allows you to launch a development local server with the hot reload feature for static pages. Once you change the JavaScript code, you don’t need to refresh the page to see the changes.
+
+# To install the Live Server extension, you follow these steps:
+1. First, click the Extensions.
+2. Second, search for the Live Server and select the Live Server extension on the list.
+3. Finally, click the Install button.
  
   
       

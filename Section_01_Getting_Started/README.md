@@ -111,11 +111,11 @@ First, execute the installer from the downloaded file. Then, open the Visual Stu
 Installing the Live Server extension
 The live server extension allows you to launch a development local server with the hot reload feature for static pages. Once you change the JavaScript code, you don’t need to refresh the page to see the changes.
 
-# To install the Live Server extension, you follow these steps:
+### To install the Live Server extension, you follow these steps:
 1. First, click the Extensions.
 2. Second, search for the Live Server and select the Live Server extension on the list.
 3. Finally, click the Install button.
- 
+
   
       
      

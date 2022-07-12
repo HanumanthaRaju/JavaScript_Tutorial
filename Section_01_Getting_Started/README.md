@@ -34,6 +34,7 @@ JS had no standards governed for its syntax and features, so community decided t
 use **var** keyword:
 
 var x=10;
+
 var y=20;
 
 

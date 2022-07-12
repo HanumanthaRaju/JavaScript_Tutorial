@@ -37,6 +37,19 @@ var x=10;
 
 var y=20;
 
+### ES6 uses let keyword to declare variable:
+let x=10;
+
+let y=20;
+
+### Declaring a function using function keyword:
+function add(a,b) {
+
+return a+b;
+
+}
+
+
 
 
 

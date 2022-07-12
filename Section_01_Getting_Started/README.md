@@ -115,15 +115,3 @@ The live server extension allows you to launch a development local server with t
 1. First, click the Extensions.
 2. Second, search for the Live Server and select the Live Server extension on the list.
 3. Finally, click the Install button.
-
-  
-      
-     
-
-
-
-
-
-
-
-![outcome](./01.jpg)

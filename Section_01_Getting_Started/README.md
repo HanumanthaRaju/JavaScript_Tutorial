@@ -18,6 +18,22 @@ When JavaScript is used on a web page, it is executed in web browsers. In this c
 
 JavaScript can run on both web browsers and servers. A popular JavaScript server-side environment is Node.js. Unlike client-side JavaScript, server-side JavaScript executes on the server that allows you to access databases, file systems, etc.
 
+# JavaScript History
+JavaScript was created by Netscape developer Brendan Eich, first named as Mocha, then to LiveScript, later Netscape decided to change it to JavaScript just before they released its Netscape browser product Netscape Navigator 2, which was JavaScript version 1.0.
+
+Netscape released JavaScript 1.1, also Microsoft released a web browser called Internet Explorer(IE), called JScript.
+
+Two different JS versions were in the market: JavaScript in Netscape Navigator and JScript in Internet Explorer
+
+Hence, two different JavaScript versions were in the market:
+
+JS had no standards governed for its syntax and features, so community decided to standardize the language, after several decisions, the International Organization for Standardization and International Electrotechnical Commissions (ISO/IEC) adopted ECMAScript (ISO/IEC-16262).
+
+
+
+
+
+
 
 
 ![outcome](./01.jpg)

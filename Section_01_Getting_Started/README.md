@@ -30,7 +30,12 @@ Hence, two different JavaScript versions were in the market:
 JS had no standards governed for its syntax and features, so community decided to standardize the language, after several decisions, the International Organization for Standardization and International Electrotechnical Commissions (ISO/IEC) adopted ECMAScript (ISO/IEC-16262).
 
 # JavaScript Overview
-### Declare variable in JavaScript,use **var** keyword:
+### Declare variable in JavaScript:
+use **var** keyword:
+
+var x=10;
+var y=20;
+
 
 
 

@@ -126,14 +126,15 @@ Here, you will learn how to open the Console tab of the devtools to view message
 Run the html code in the browser:
 
 <script>
-    
-  console.log('Hello, devtools!');
   
-   // the following code causes an error
+  console.log('Hello, devtools!'); 
   
-  let greeting = msg;
+  // the following code causes an error 
+  
+  let greeting = msg; 
 
 </script>
+
 
 In the browser, access More tools--> Development tools
 

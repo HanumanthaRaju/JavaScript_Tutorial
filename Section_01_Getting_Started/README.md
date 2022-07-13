@@ -115,3 +115,28 @@ The live server extension allows you to launch a development local server with t
 1. First, click the Extensions.
 2. Second, search for the Live Server and select the Live Server extension on the list.
 3. Finally, click the Install button.
+
+### Web development Tools
+Modern web browsers such as Google Chrome, Firefox, Edge, Safari, and Opera provide the devtools as built-in features.
+
+Generally, devtools allow you to work with a variety of web technologies such as HTML, CSS, DOM, and JavaScript.
+
+Here, you will learn how to open the Console tab of the devtools to view messages output by JavaScript.
+
+Run the html code in the browser:
+
+<script>
+    console.log('Hello, devtools!');
+
+    // the following code causes an error
+    let greeting = msg;
+</script>
+
+In the browser, access More tools--> Development tools
+
+![outcome](./dev.jpg)
+
+Error is because the variable msg has not been defined in the code but was referenced in the assignment.
+
+Now, you can see both normal messages issued by the console.log() and the error messages. 
+

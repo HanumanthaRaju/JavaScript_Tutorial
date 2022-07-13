@@ -134,7 +134,7 @@ Run the html code in the browser:
 
 In the browser, access More tools--> Development tools
 
-![outcome](./dev.jpg)
+![outcome](./dev.JPG)
 
 Error is because the variable msg has not been defined in the code but was referenced in the assignment.
 

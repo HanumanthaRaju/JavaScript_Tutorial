@@ -124,21 +124,7 @@ Generally, devtools allow you to work with a variety of web technologies such as
 Here, you will learn how to open the Console tab of the devtools to view messages output by JavaScript.
 
 Run the html code in the browser:
-
-<script>
-  
-  
-  console.log('Hello, devtools!'); 
-  
-  
-  // the following code causes an error 
-  
-  
-  let greeting = msg; 
-
-
-</script>
-
+![outcome](./devtools.JPG)
 
 In the browser, access More tools--> Development tools
 

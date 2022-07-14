@@ -141,6 +141,7 @@ To insert JavaScript into Html page we use <script> element, which can be used i
 1. Embed JavaScript code in an Html page
 2. Referencing an external JavaScript file
 
+
 1. Embed JavaScript code in an Html Page
 
 Refer to the HelloWorld.html file, double click which triggers HelloWorld messgae in the browser.

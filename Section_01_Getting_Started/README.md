@@ -134,3 +134,62 @@ Error is because the variable msg has not been defined in the code but was refer
 
 Now, you can see both normal messages issued by the console.log() and the error messages. 
 
+### JavScript HelloWorld Example
+We Showcase how to embed JavaScript code into Html page.
+
+To insert JavaScript into Html page we use <script> element, which can be used in two ways.
+1. Embed JavaScript code in an Html page
+2. Referencing an external JavaScript file
+
+1. Embed JavaScript code in an Html Page
+
+Refer to the HelloWorld.html file, double click which triggers HelloWorld messgae in the browser.
+
+![outcome](./01.JPG)
+
+![outcome](./02.JPG)
+
+2. Include an External JavaScript file
+
+Create file with .js extension and place it in directory.
+
+Then use the URL to the JavaScript source code file in the src attribute of the <script> element
+
+app.js file will look like this:
+
+![outcome](./03.JPG)
+
+html file look like this: Create a directory called js and save the html file and import the app.js file in the html file using <script> element as shown.
+
+![outcome](./04.JPG)
+
+![outcome](./02.JPG)
+
+Multiple JavaScript files on a page are interpreted in an oder they appear by the JavaScript engine. For example as shown below
+When you have multiple JavaScript files on a page, the JavaScript engine interprets the files in the order that they appear. For example: as shown below, service.js is interpreted first then app.js file.
+
+![outcome](./05.JPG)
+
+It is always recommended when you have many external JavaScript files, include them just befor the <body> tag is closed.
+
+### The asynch and defer attributes
+
+To change gow browser executes JavaScript files, async and defer attributes of ,script> element is used. Attributes will take effect only on external script files. 
+
+async attribute instructs web browser to execute asynchronously, execution of files doesnot guarntee any order, as in shown below either service.js or app.js can be executed first.
+
+![outcome](./06.JPG)
+
+The defer attribute requests the web browser to execute the script file after the HTML document has been parsed.
+
+![outcome](./07.JPG)
+
+Even though we place the <script> element in the <head> section, the script will wait for the browser to receive the closing tag <html> to start executing.
+
+# Summary
+1. Use <script> element to include a JavaScript file in a HTML page.
+2. The async attribute of the <script> element instructs the web browser to fetch the JavaScript file in parallel and then parse and execute as soon as the JavaScript file is available.
+3. The defer attribute of the <script> element allows the web browser to execute the JavaScript file after the document has been parsed.
+
+
+

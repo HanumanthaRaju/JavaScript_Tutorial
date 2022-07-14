@@ -170,15 +170,25 @@ When you have multiple JavaScript files on a page, the JavaScript engine interpr
 
 ![outcome](./05.JPG)
 
+Refer to HelloWorld_External_js.html file: 
+
+![outcome](./08.JPG)
+
+![outcome](./09.JPG)
+
+![outcome](./10.JPG)
+
 It is always recommended when you have many external JavaScript files, include them just befor the <body> tag is closed.
 
 ### The asynch and defer attributes
 
-To change gow browser executes JavaScript files, async and defer attributes of ,script> element is used. Attributes will take effect only on external script files. 
+To change how browser executes JavaScript files, async and defer attributes of ,script> element is used. Attributes will take effect only on external script files. 
 
 async attribute instructs web browser to execute asynchronously, execution of files doesnot guarntee any order, as in shown below either service.js or app.js can be executed first.
 
 ![outcome](./06.JPG)
+
+
 
 The defer attribute requests the web browser to execute the script file after the HTML document has been parsed.
 

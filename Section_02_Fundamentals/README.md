@@ -122,7 +122,12 @@ Primitive datatypes in JavaScript
 
 ![outcome](./06.JPG)
 
+Example demonstrating all the primitive datatypes:
 
+![outcome](./07.JPG)
 
+![outcome](./08.JPG)
+
+![outcome](./09.JPG)
 
 

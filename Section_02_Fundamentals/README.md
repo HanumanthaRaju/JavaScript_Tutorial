@@ -15,8 +15,9 @@ JS bundlers remove all whitespaces and puts them in a single file for deployment
 # Statements
 Statement declares a variable or instructs a JS engine to do certain tasks, Statements are terminated by semicolon (;)
 
-**let message = "Welcome to JavaScript";
-console.log(message);**
+**let message = "Welcome to JavaScript";**
+
+**console.log(message);**
 
 
 

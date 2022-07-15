@@ -8,8 +8,9 @@ JS Engine ignores the whitespace, but the usage of whitespace is recommended to 
 
 An Example showcasing the use of Whitespaces in coding:
 
-![outcome](./01.jpg)
+![outcome](./01.JPG)
 
 JS bundlers remove all whitesoaces and puts them in a single file for deployment, this way bundlers make JS code lighter and faster in web browsers
 
-![outcome](./01.jpg)
+![outcome](./01.JPG)
+

@@ -43,7 +43,7 @@ Some of the Future reserved words which cannot be used as identifiers.
 ![outcome](./03.JPG)
 
 An example showcasing whitespaces, statements, comments, Expression, blocks etc.
-![outcome](./01.JPG)
+![outcome](./04.JPG)
 
 # Summary
 1. Use whitespace including cariage return, space, newline, and tab to format the code. The JavaScript engine ignores the whiespace.

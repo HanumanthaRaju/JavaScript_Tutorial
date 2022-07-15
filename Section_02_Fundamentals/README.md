@@ -145,6 +145,8 @@ We will learn about the JavaScript number types and how to use them effectively.
 
 ![outcome](./11.JPG)
 
+![outcome](./12.JPG)
+
 ### Summary
 JavaScript Number type reprensents both integer and floating-point numbers.
 

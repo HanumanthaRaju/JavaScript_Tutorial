@@ -130,4 +130,14 @@ Example demonstrating all the primitive datatypes:
 
 ![outcome](./09.JPG)
 
+### The Object type
+In JavaScript, an object is a collection of properties, where each property is defined as a key-value pair.
+
+The following example defines an empty object using the object literal syntax:
+
+![outcome](./10.JPG)
+
+### Summary
+JavaScript has the primitive types: number, string, boolean, null, undefined, symbol and bigint and a complex type: object.
+
 

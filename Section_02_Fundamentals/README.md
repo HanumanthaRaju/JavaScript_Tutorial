@@ -106,6 +106,21 @@ Constants hold value that doesnot change.
 3. An undefined variable is a variable that has been declared but not initialized while an undeclared variable is variable that has not been declared.
 4. Use the const keyword to define a readonly reference to a value.
 
+# JavaScript DataTypes
+We list available datatype in JavaScript and its characteristics
+
+Primitive datatypes in JavaScript
+
+1. null
+2. undefined
+3. boolean
+4. number
+5. string
+6. symbol – available from ES2015
+7. bigint – available from ES2020
+8. and a complex data type object.
+
+![outcome](./06.JPG)
 
 
 

@@ -140,4 +140,12 @@ The following example defines an empty object using the object literal syntax:
 ### Summary
 JavaScript has the primitive types: number, string, boolean, null, undefined, symbol and bigint and a complex type: object.
 
+# number
+We will learn about the JavaScript number types and how to use them effectively.
+
+![outcome](./11.JPG)
+
+### Summary
+JavaScript Number type reprensents both integer and floating-point numbers.
+
 

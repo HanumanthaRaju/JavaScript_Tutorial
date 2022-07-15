@@ -1,6 +1,14 @@
-# JavaScript_Tutorial
+# JavaScript Fundamentals
 
-This JavaScript Tutorial helps you in learning JavaScript Programming language quickly, also facilitates you by providing richer and compelling features that can be added to your websites and applications
-Welcome to the JavaScriptTutorial.net website! This JavaScript Tutorial helps you learn the JavaScript programming language from scratch quickly and effectively.
+Here we will learn about JavaScript syntax, including whitespace, statements, identifiers, comments, expressions, and keywords.
+
+# Whitespace
+Refers to characters with a space between other characters, JS has whitespaces related to: Carriage return, Space, New line, Tab.
+JS Engine ignores the whitespace, but the usage of whitespace is recommended to enhance the readability and manitainance of the code with a proper indentation.
+
+An Example showcasing the use of Whitespaces in coding:
+![outcome](./Whitespace.js)
+
+JS bundlers remove all whitesoaces and puts them in a single file for deployment, this way bundlers make JS code lighter and faster in web browsers
 
 ![outcome](./01.jpg)

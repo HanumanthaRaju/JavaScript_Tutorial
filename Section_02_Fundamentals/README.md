@@ -52,3 +52,62 @@ An example showcasing whitespaces, statements, comments, Expression, blocks etc.
 4. A single-line comment start with // followed by a text. A block comment begins with /* and ends with */. JavaScript engine also ignores the comments.
 5. Identifers are names that you choose for variables, functions, classes, etc.
 6. Do not use the reserved keywords and reserved words for identifers.
+
+
+
+# JavaScript Variables
+We will learn about JavaScript variables and how to use variables to store values in the application.
+
+A variable is a label that references a value like a number or string. Before using a variable, you need to declare it.
+
+### Declaring a Variable
+Use **var** keyword followed by the variable name
+
+**var var_name;**
+
+if no value is assigned, variable will have a **undefined value** in it, variable names follows the rule of identifiers, by convention variable **uses camel case**.
+
+In **ES6 let** keyword is used to declare a variable.
+
+**let var_name;**
+
+Its always good practice to declare variable name using let keyword, there are further differences between declaring with let and var which will be discussed later
+
+### Initialize a variable
+Once a variable is declared, initialize a variable by using equal(=) sign. Different ways of initializing a variable is shown below.
+
+**let message="Hello";**
+
+**let message1="HelloWorld", counter=50;**
+
+**let message2="World";**
+
+**message2="Hello";**
+
+### Undefined vs Undeclared variables
+**let message;**
+
+**console.log(message); //Undefined variable**
+
+**console.log(coounters); //Undeclared variable**
+
+### Constants
+Constants hold value that doesnot change.
+
+**const x=10;**
+
+**x=20; //throws an error**
+
+![outcome](./05.JPG)
+
+### Summary
+1. A variable is a label that references a value.
+2. Use the let keyword to declare a variable.
+3. An undefined variable is a variable that has been declared but not initialized while an undeclared variable is variable that has not been declared.
+4. Use the const keyword to define a readonly reference to a value.
+
+
+
+
+
+

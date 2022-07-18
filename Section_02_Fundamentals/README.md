@@ -334,5 +334,29 @@ Since both person and member variables reference the same object, changing the o
 3. Copying a primitive value from one variable to another creates a separate value copy. It means that changing the value in one variable does not affect the other.
 4. Copying a reference from one variable to another creates a reference so that two variables refer to the same object. This means that changing the object via one variable reflects in another variable.
 
+#JavaScript Arrays
+In JavaScript, an array is an ordered list of values. Each value is called an element specified by an index.
+
+![outcome](./33.JPG)
+
+An JavaScript array has the following characteristics:
+
+1. First, an array can hold values of mixed types. For example, you can have an array that stores elements with the types number, string, and boolean.
+2. Second, the size of an array is dynamic and auto-growing. In other words, you don’t need to specify the array size upfront.
+
+![outcome](./34.JPG)
+
+![outcome](./35.JPG)
+
+### Summary
+1. In JavaScript, an array is an order list of values. Each value is called an element specified by an index.
+2. An array can hold values of mixed types.
+3. JavaScript arrays are dynamic, which mean that they grow or shrink as needed.
+
+
+
+
+
+
 
 

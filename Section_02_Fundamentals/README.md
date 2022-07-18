@@ -193,5 +193,37 @@ For example, the if statement executes a block if a condition is true. If you us
 2. Use the Boolean() function to cast a non-boolean values to a boolean value.
 3. Some statements implicitly cast a non-boolean value into a boolean value.
 
+# JavaScript String
+ learn about the JavaScript string primitive type and how to use it to define strings.
+ 
+ JavaScript strings are primitive values. Also, strings are immutable.
+ To create literal strings, you use either single quotes (') or double quotes (")
+ 
+ ### Escaping Special Characters
+ To escape special characters, you use the backslash \ character. For example:
 
+1. Windows line break: '\r\n'
+2. Unix line break: '\n'
+3. Tab: '\t'
+4. Backslash '\'
+
+### Converting Values to String
+To convert a non-string value to a string, you use one of the following:
+
+1. String(n);
+2. ” + n
+3. n.toString()
+4. Note that the toString() method doesn’t work for undefined and null.
+
+When you convert a string to a boolean, you cannot convert it back
+
+![outcome](./17.JPG)
+
+![outcome](./18.JPG)
+
+### Summary
+1. JavaScript strings are primitive values and immutable.
+2. Literal strings are delimited by single quotes ('), double quotes ("), or backticks (`).
+3. The length property returns the length of the string.
+4. Use the comparison operators `>, >=, <, <=, == to compare strings.
 

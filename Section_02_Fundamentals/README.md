@@ -334,7 +334,7 @@ Since both person and member variables reference the same object, changing the o
 3. Copying a primitive value from one variable to another creates a separate value copy. It means that changing the value in one variable does not affect the other.
 4. Copying a reference from one variable to another creates a reference so that two variables refer to the same object. This means that changing the object via one variable reflects in another variable.
 
-#JavaScript Arrays
+# JavaScript Arrays
 In JavaScript, an array is an ordered list of values. Each value is called an element specified by an index.
 
 ![outcome](./33.JPG)

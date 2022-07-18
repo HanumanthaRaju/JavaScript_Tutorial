@@ -162,11 +162,11 @@ The numeric separator allows you to create a visual separation between groups of
 Use underscores (_) as the numeric separators to create a visual separation between group of digits.
 
 # Octal and Binary Literals
+
 learn how to represent the octal and binary literals in ES6
 
 ES5 provided numeric literals in octal (prefix 0), decimal (no prefix), and hexadecimal (0x). ES6 added support for binary literals and changed how it represents octal literals.
 
-## Octal Literals
 ![outcome](./14.JPG)
 
 ### Summary

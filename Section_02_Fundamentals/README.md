@@ -227,3 +227,21 @@ When you convert a string to a boolean, you cannot convert it back
 3. The length property returns the length of the string.
 4. Use the comparison operators `>, >=, <, <=, == to compare strings.
 
+# JavaScript Objects
+learn about JavaScript objects and how to manipulate object properties effectively.
+
+In JavaScript, an object is an unordered collection of key-value pairs. Each key-value pair is called a property.
+
+The key of a property can be a string. And the value of a property can be any value, e.g., a string, a number, an array, and even a function.
+
+JavaScript provides you with many ways to create an object. The most commonly used one is to use the object literal notation.
+
+![outcome](./19.JPG)
+
+![outcome](./20.JPG)
+
+### Summary
+1. An object is a collection of key-value pairs.
+2. Use the dot notation ( .) or array-like notation ([]) to access a property of an object.
+3. The delete operator removes a property from an object.
+4. The in operator check if a property exists in an object.

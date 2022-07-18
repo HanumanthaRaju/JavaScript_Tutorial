@@ -151,3 +151,13 @@ We will learn about the JavaScript number types and how to use them effectively.
 JavaScript Number type reprensents both integer and floating-point numbers.
 
 
+# JavaScript Numeric Separator
+use the JavaScript numeric separator to make the numeric literals more readable.
+
+The numeric separator allows you to create a visual separation between groups of digits by using underscores (_) as separators.
+
+![outcome](./13.JPG)
+
+### Summary
+Use underscores (_) as the numeric separators to create a visual separation between group of digits.
+

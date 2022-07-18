@@ -263,17 +263,21 @@ Reference values that refer to objects.
 Because static data has a size that does not change, the JavaScript engine allocates a fixed amount of memory space to the static data and store it on the stack.
 
 For example, the following declares two variables and initializes their values to a literal string and a number:
+
 ![outcome](./21.JPG)
 
 Because name and age are primitive values, the JavaScript engine stores these variables on the stack as shown in the following picture:
+
 ![outcome](./22.JPG)
 
 Unlike the stack, JavaScript stores objects (and functions) on the heap. The JavaScript engine doesn’t allocate a fixed amount of memory for these objects. Instead, it’ll allocate more space as needed.
 
 The following example defines the name, age, and person variables:
+
 ![outcome](./23.JPG)
 
 Internally, the JavaScript engine allocates the memory as shown in the following picture:
+
 ![outcome](./24.JPG)
 
 In this picture, JavaScript allocates memory on the stack for the three variables name, age, and person.
@@ -288,6 +292,7 @@ A reference value allows you to add, change, or delete properties at any time. F
 ![outcome](./25.JPG)
 
 Output:
+
 ![outcome](./26.JPG)
 
 Unlike a reference value, a primitive value cannot have properties. This means that you cannot add a property to a primitive value.
@@ -297,27 +302,33 @@ JavaScript allows you to add a property to a primitive value. However, it won’
 ![outcome](./27.JPG)
 
 Output:
+
 ![outcome](./28.JPG)
 
 ### Copying values
 When you assign a primitive value from one variable to another, the JavaScript engine creates a copy of that value and assigns it to the variable. For example:
+
 ![outcome](./29.JPG)
+
 On the stack memory, the newAge and age are separate variables. If you change the value of one variable, it won’t affect the other.
 
 When you assign a reference value from one variable to another, the JavaScript engine creates a reference so that both variables refer to the same object on the heap memory. This means that if you change one variable, it’ll affect the other.
+
 ![outcome](./30.JPG)
 
 First, declare a person variable and initialize its value with an object with two properties name and age.
 
 Second, assign the person variable to the member variable. In the memory, both variables reference the same object, as shown in the following picture:
+
 ![outcome](./31.JPG)
 
 Third, change the age property of the object via the member variable:
+
 ![outcome](./32.JPG)
 
 Since both person and member variables reference the same object, changing the object via the member variable is also reflected in the person variable.
 
-Summary
+### Summary
 1. Javascript has two types of values: primitive values and reference values.
 2. You can add, change, or delete properties to a reference value, whereas you cannot do it with a primitive value.
 3. Copying a primitive value from one variable to another creates a separate value copy. It means that changing the value in one variable does not affect the other.

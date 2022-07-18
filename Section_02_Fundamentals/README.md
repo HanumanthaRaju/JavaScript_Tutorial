@@ -173,5 +173,25 @@ ES5 provided numeric literals in octal (prefix 0), decimal (no prefix), and hexa
 1. Octal literals start with 0o followed by a sequence of numbers between 0 and 7.
 2. Binary literals start with 0b followed by a sequence of number 0 and 1.
 
+# JavaScript Boolean Type
+learn about the JavaScript boolean type that has two literal values true and false
+
+The JavaScript boolean primitive type has two literal values: true and false.
+
+table shows how the Boolean() function casts the values of other types to boolean values:
+
+![outcome](./15.JPG)
+
+This table is important because some statements automatically cast a non-boolean value to a boolean value using the Boolean() function.
+
+![outcome](./16.JPG)
+
+For example, the if statement executes a block if a condition is true. If you use a non-boolean value, it’ll use the Boolean() function to implicitly cast that value to a boolean value.
+
+### Summary
+1. JavaScript boolean type has two literal values true and false.
+2. Use the Boolean() function to cast a non-boolean values to a boolean value.
+3. Some statements implicitly cast a non-boolean value into a boolean value.
+
 
 

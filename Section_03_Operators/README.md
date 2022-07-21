@@ -51,6 +51,30 @@ Use the JavaScript arithmetic operators including addition (+), subtraction (-),
 
 ![outcome](./12.JPG)
 
+# Logical Operators
+
+1. ! (Logical NOT)
+2. || (Logical OR)
+3. && (Logical AND)
+
+![outcome](./13.JPG)
+
+### Logical Operator Precedence
+The precedence of the logical operator is in the following order from the highest to the lowest:
+
+1. Logical NOT (!)
+2. Logical AND (&&)
+3. Logical OR (||)
+
+### Summary
+1. The NOT operator (!) negates a boolean value. The (!!) converts a value into its real boolean value.
+2. The AND operator (&&) is applied to two Boolean values and returns true if both values are true.
+3. The OR operator (||) is applied to two Boolean values and returns true if one of the operands is true.
+4. Both && and || operator are short-circuited. They can be also applied to non-Boolean values.
+5. The logical operator precedence from the highest to the lowest is !, && and ||
+
+
+
 
 
 

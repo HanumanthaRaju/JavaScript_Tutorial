@@ -73,7 +73,21 @@ The precedence of the logical operator is in the following order from the highes
 4. Both && and || operator are short-circuited. They can be also applied to non-Boolean values.
 5. The logical operator precedence from the highest to the lowest is !, && and ||
 
+# Nullish Coalescing operator
+The nullish coalescing operator returns the second value (value2) if the first value (value2) is null or undefined. Technically, the bullish coalescing operator is equivalent to the following block:
 
+![outcome](./14.JPG)
+
+### Summary
+1. The nullish coalescing operator (??) is a logical operator that accepts two values and returns the second value if the first one is null or undefined.
+2. The nullish coalescing operator is short-circuited and cannot directly combine with the logical AND or OR operator.
+
+# Exponentiation Operator
+To raise a number to the power of an exponent, you often use the static method Math.power()
+
+Math.pow(base, exponent)
+
+![outcome](./15.JPG)
 
 
 

@@ -36,6 +36,12 @@ The spread operator ... is used to expand or spread an iterable or an array.
 
 ![outcome](./07.JPG)
 
+## JavaScript Switch statement
+The switch statement evaluates an expression and executes the corresponding body that matches the expression's result.
+
+![outcome](./08.JPG)
+
+
 
 
 

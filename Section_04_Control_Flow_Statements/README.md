@@ -41,7 +41,8 @@ The switch statement evaluates an expression and executes the corresponding body
 
 ![outcome](./08.JPG)
 
-##JavaScript Loop statement
+## JavaScript Loop statement
+
 ![outcome](./09.JPG)
 
 

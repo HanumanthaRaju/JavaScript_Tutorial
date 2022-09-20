@@ -25,6 +25,17 @@ Syntax: condition ? <expression if true> : <expression if false>
 
 ![outcome](./04.JPG)
 
+## JavaScript Spread Operator
+The spread operator is a new addition to the features available in the JavaScript ES6 version.
+
+The spread operator ... is used to expand or spread an iterable or an array.
+
+![outcome](./05.JPG)
+
+![outcome](./06.JPG)
+
+![outcome](./07.JPG)
+
 
 
 

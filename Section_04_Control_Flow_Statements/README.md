@@ -45,6 +45,9 @@ The switch statement evaluates an expression and executes the corresponding body
 
 ![outcome](./09.JPG)
 
+## Summary
+Understood the use of conditional statements, loops, Spread and ternary operator, break, continue, loops
+
 
 
 

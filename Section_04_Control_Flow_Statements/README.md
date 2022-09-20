@@ -14,3 +14,17 @@ The if statement executes a block when a condition evaluates to true, but when t
 ![outcome](./02.JPG)
 
 
+## if else if statement
+if...else...if statement to check multiple conditions and execute the corresponding block if a condition is true.
+
+![outcome](./03.JPG)
+
+## Ternary Operator
+The ternary operator is a simplified conditional operator like if / else.
+Syntax: condition ? <expression if true> : <expression if false>
+
+![outcome](./04.JPG)
+
+
+
+

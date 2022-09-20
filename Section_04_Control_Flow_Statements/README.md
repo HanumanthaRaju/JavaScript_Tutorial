@@ -1,6 +1,8 @@
-# JavaScript_Tutorial
+# JavaScript Control Flow Statements
 
-This JavaScript Tutorial helps you in learning JavaScript Programming language quickly, also facilitates you by providing richer and compelling features that can be added to your websites and applications
-Welcome to the JavaScriptTutorial.net website! This JavaScript Tutorial helps you learn the JavaScript programming language from scratch quickly and effectively.
+## JavaScript if statement, Nested if statement
+The if statment executes the block if condition is true.
+Condition can be value or an expression that evaluates to true or false.
+If we use if statement inside a if statment its called Nested If statement
 
-![outcome](./01.jpg)
+![outcome](./01.JPEG)
